@@ -1,0 +1,16 @@
+.red{
+    background: rgb(74, 255, 74);
+    height: 120px;
+    color: rgb(255, 49, 13);
+}
+.green{
+    background: rgb(185, 81, 255);
+    height: 120px;
+    color: aliceblue;
+}
+h1{
+    color:rgb(17, 95, 238);
+}
+h2{
+    color: rgb(255, 0, 221);
+}
